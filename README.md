@@ -22,12 +22,20 @@
 <div align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MLX-000000?style=for-the-badge&logo=apple&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Shell-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white"/>
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
   <img src="https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=apple&logoColor=white"/>
 </div>
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python,django,linux,git,vscode,pycharm,github,macos" />
+  <img src="https://skillicons.dev/icons?i=python,django,fastapi,pytorch,c,html,css,bash,linux,git,pycharm,github" />
 </div>
 
 ### 📊 GitHub 统计 | GitHub Stats
@@ -39,7 +47,7 @@
 
 ### 🐍 GitHub 贡献图 | Contribution Snake
 
-![贡献统计](https://raw.githubusercontent.com/parkavenue9639/parkavenue9639/refs/heads/output/github-contribution-grid-snake.svg)
+![贡献图](https://raw.githubusercontent.com/parkavenue9639/parkavenue9639/output/github-contribution-grid-snake.svg)
 
 ### 📈 活动图表 | Activity Graph
 
