@@ -32,6 +32,7 @@
   <img src="https://img.shields.io/badge/Shell-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white"/>
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
   <img src="https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=apple&logoColor=white"/>
+<img src="https://avatars.githubusercontent.com/u/102750714?s=48&v=4" alt="SONiC Logo" width="25"/> 
 </div>
 
 <div align="center">
