@@ -1,0 +1,77 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360" role="img" aria-labelledby="title desc">
+  <title id="title">Lu Chong — AI Systems Builder</title>
+  <desc id="desc">A dark gradient profile banner highlighting agent engineering, MCP, and developer tooling.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#070b14" />
+      <stop offset="0.58" stop-color="#0f172a" />
+      <stop offset="1" stop-color="#111827" />
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#22d3ee" />
+      <stop offset="1" stop-color="#8b5cf6" />
+    </linearGradient>
+    <radialGradient id="glowCyan">
+      <stop offset="0" stop-color="#22d3ee" stop-opacity="0.34" />
+      <stop offset="1" stop-color="#22d3ee" stop-opacity="0" />
+    </radialGradient>
+    <radialGradient id="glowViolet">
+      <stop offset="0" stop-color="#8b5cf6" stop-opacity="0.32" />
+      <stop offset="1" stop-color="#8b5cf6" stop-opacity="0" />
+    </radialGradient>
+    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse">
+      <path d="M 32 0 L 0 0 0 32" fill="none" stroke="#94a3b8" stroke-opacity="0.08" stroke-width="1" />
+    </pattern>
+    <filter id="shadow" x="-30%" y="-30%" width="160%" height="160%">
+      <feDropShadow dx="0" dy="14" stdDeviation="18" flood-color="#020617" flood-opacity="0.45" />
+    </filter>
+    <style>
+      .sans { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif; }
+      .mono { font-family: "SFMono-Regular", Consolas, "Liberation Mono", monospace; }
+      .cursor { animation: blink 1.2s steps(1, end) infinite; }
+      @keyframes blink { 0%, 48% { opacity: 1; } 49%, 100% { opacity: 0; } }
+      @media (prefers-reduced-motion: reduce) { .cursor { animation: none; } }
+    </style>
+  </defs>
+
+  <rect x="1" y="1" width="1198" height="358" rx="28" fill="url(#bg)" stroke="#334155" stroke-width="2" />
+  <rect x="1" y="1" width="1198" height="358" rx="28" fill="url(#grid)" />
+  <ellipse cx="160" cy="20" rx="310" ry="220" fill="url(#glowCyan)" />
+  <ellipse cx="1050" cy="330" rx="340" ry="250" fill="url(#glowViolet)" />
+  <rect x="70" y="54" width="66" height="4" rx="2" fill="url(#accent)" />
+
+  <text x="70" y="92" class="sans" fill="#67e8f9" font-size="15" font-weight="700" letter-spacing="3">AI SYSTEMS BUILDER</text>
+  <text x="66" y="174" class="sans" fill="#f8fafc" font-size="68" font-weight="760" letter-spacing="1">LU CHONG</text>
+  <text x="70" y="218" class="sans" fill="#cbd5e1" font-size="22">Agent Engineering  •  MCP  •  Developer Tooling</text>
+
+  <g class="sans" font-size="13" font-weight="650" letter-spacing="1.2">
+    <rect x="70" y="258" width="156" height="42" rx="21" fill="#0e7490" fill-opacity="0.24" stroke="#22d3ee" stroke-opacity="0.55" />
+    <text x="148" y="284" fill="#a5f3fc" text-anchor="middle">ORCHESTRATE</text>
+    <rect x="240" y="258" width="132" height="42" rx="21" fill="#5b21b6" fill-opacity="0.2" stroke="#8b5cf6" stroke-opacity="0.55" />
+    <text x="306" y="284" fill="#ddd6fe" text-anchor="middle">OBSERVE</text>
+    <rect x="386" y="258" width="120" height="42" rx="21" fill="#047857" fill-opacity="0.2" stroke="#34d399" stroke-opacity="0.5" />
+    <text x="446" y="284" fill="#a7f3d0" text-anchor="middle">VERIFY</text>
+  </g>
+
+  <g>
+    <rect x="805" y="48" width="324" height="264" rx="22" fill="#0b1220" fill-opacity="0.92" stroke="#475569" />
+    <circle cx="835" cy="77" r="5" fill="#fb7185" />
+    <circle cx="854" cy="77" r="5" fill="#fbbf24" />
+    <circle cx="873" cy="77" r="5" fill="#34d399" />
+    <path d="M 819 99 H 1115" stroke="#334155" />
+
+    <text x="834" y="132" class="mono" fill="#94a3b8" font-size="14">$ agent run --reliable<tspan class="cursor" fill="#22d3ee">_</tspan></text>
+
+    <circle cx="843" cy="171" r="11" fill="#064e3b" stroke="#34d399" />
+    <path d="m 838 171 3 3 6 -7" fill="none" stroke="#a7f3d0" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" />
+    <text x="868" y="176" class="mono" fill="#d1fae5" font-size="15">scope locked</text>
+
+    <circle cx="843" cy="214" r="11" fill="#164e63" stroke="#22d3ee" />
+    <path d="m 838 214 3 3 6 -7" fill="none" stroke="#a5f3fc" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" />
+    <text x="868" y="219" class="mono" fill="#cffafe" font-size="15">tools observable</text>
+
+    <circle cx="843" cy="257" r="11" fill="#4c1d95" stroke="#a78bfa" />
+    <path d="m 838 257 3 3 6 -7" fill="none" stroke="#ddd6fe" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" />
+    <text x="868" y="262" class="mono" fill="#ede9fe" font-size="15">evidence verified</text>
+  </g>
+</svg>
