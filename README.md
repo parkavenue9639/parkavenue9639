@@ -1,7 +1,7 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./assets/profile-hero-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="./assets/profile-hero-light.svg" />
-  <img alt="Lu Chong — AI systems builder focused on agent engineering, MCP, and developer tooling" src="./assets/profile-hero-light.svg" width="100%" />
+  <img alt="AI systems builder focused on agent engineering, MCP, and developer tooling" src="./assets/profile-hero-light.svg" width="100%" />
 </picture>
 
 <p align="center">
@@ -104,9 +104,9 @@
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=py,ts,c,html,css,pytorch,django,fastapi,react,postgres,docker,linux,apple,git,bash&perline=8&theme=dark" />
-    <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=py,ts,c,html,css,pytorch,django,fastapi,react,postgres,docker,linux,apple,git,bash&perline=8&theme=light" />
-    <img alt="Python, TypeScript, C, HTML, CSS, PyTorch, Django, FastAPI, React, PostgreSQL, Docker, Linux, macOS, Git, and Shell" src="https://skillicons.dev/icons?i=py,ts,c,html,css,pytorch,django,fastapi,react,postgres,docker,linux,apple,git,bash&perline=8&theme=light" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=py%2Cts%2Cc%2Chtml%2Ccss%2Cpytorch%2Cdjango%2Cfastapi%2Creact%2Cpostgres%2Cdocker%2Clinux%2Capple%2Cgit%2Cbash&amp;perline=8&amp;theme=dark" />
+    <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=py%2Cts%2Cc%2Chtml%2Ccss%2Cpytorch%2Cdjango%2Cfastapi%2Creact%2Cpostgres%2Cdocker%2Clinux%2Capple%2Cgit%2Cbash&amp;perline=8&amp;theme=light" />
+    <img alt="Python, TypeScript, C, HTML, CSS, PyTorch, Django, FastAPI, React, PostgreSQL, Docker, Linux, macOS, Git, and Shell" src="https://skillicons.dev/icons?i=py%2Cts%2Cc%2Chtml%2Ccss%2Cpytorch%2Cdjango%2Cfastapi%2Creact%2Cpostgres%2Cdocker%2Clinux%2Capple%2Cgit%2Cbash&amp;perline=8&amp;theme=light" />
   </picture>
 </p>
 
@@ -120,7 +120,7 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/parkavenue9639/parkavenue9639/output/github-contribution-grid-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/parkavenue9639/parkavenue9639/output/github-contribution-grid-snake.svg" />
-  <img alt="Lu Chong's GitHub contribution graph" src="https://raw.githubusercontent.com/parkavenue9639/parkavenue9639/output/github-contribution-grid-snake.svg" />
+  <img alt="GitHub contribution graph" src="https://raw.githubusercontent.com/parkavenue9639/parkavenue9639/output/github-contribution-grid-snake.svg" />
 </picture>
 
 ## Let's connect

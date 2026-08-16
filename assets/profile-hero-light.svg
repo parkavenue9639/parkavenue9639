@@ -1,5 +1,5 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360" role="img" aria-labelledby="title desc">
-  <title id="title">Lu Chong — AI Systems Builder</title>
+  <title id="title">Reliable AI Systems</title>
   <desc id="desc">A light gradient profile banner highlighting agent engineering, MCP, and developer tooling.</desc>
   <defs>
     <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
@@ -40,8 +40,8 @@
   <ellipse cx="1050" cy="330" rx="340" ry="250" fill="url(#glowViolet)" />
   <rect x="70" y="54" width="66" height="4" rx="2" fill="url(#accent)" />
 
-  <text x="70" y="92" class="sans" fill="#0e7490" font-size="15" font-weight="700" letter-spacing="3">AI SYSTEMS BUILDER</text>
-  <text x="66" y="174" class="sans" fill="#0f172a" font-size="68" font-weight="760" letter-spacing="1">LU CHONG</text>
+  <text x="70" y="92" class="sans" fill="#0e7490" font-size="15" font-weight="700" letter-spacing="3">BUILDING RELIABLE AGENTS</text>
+  <text x="66" y="174" class="sans" fill="#0f172a" font-size="68" font-weight="760" letter-spacing="1">AI SYSTEMS</text>
   <text x="70" y="218" class="sans" fill="#475569" font-size="22">Agent Engineering  •  MCP  •  Developer Tooling</text>
 
   <g class="sans" font-size="13" font-weight="650" letter-spacing="1.2">
