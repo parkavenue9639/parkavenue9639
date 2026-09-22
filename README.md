@@ -1,8 +1,4 @@
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/profile-hero-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="./assets/profile-hero-light.svg" />
-  <img alt="AI systems builder focused on agent engineering, MCP, and developer tooling" src="./assets/profile-hero-light.svg" width="100%" />
-</picture>
+<img alt="A neofetch-style terminal card: an animated agent loop — observe, decide, guard, execute, ledger, repeat — with the llm called only when needed, and a prompt that types out agent CLI commands" src="./assets/profile-hero.svg" width="100%" />
 
 <p align="center">
   Building observable, verifiable AI systems — from agent runtimes to scientific workflows.
@@ -46,17 +42,22 @@
 <table>
   <tr>
     <td width="50%" valign="top">
+      <h3><a href="https://github.com/parkavenue9639/jevloop">jevloop</a></h3>
+      <p>A Python agent runtime powered by TypeSafe Jev: guarded tool execution, isolated Docker sandboxes, and side-by-side LLM comparisons.</p>
+      <code>Python</code> <code>Agent Runtime</code> <code>Docker</code>
+    </td>
+    <td width="50%" valign="top">
       <h3><a href="https://github.com/parkavenue9639/OmniCell-Agent">OmniCell-Agent</a></h3>
       <p>An observable research agent for reproducible single-cell RNA-seq analysis.</p>
       <code>LangGraph</code> <code>FastAPI</code> <code>React</code>
     </td>
+  </tr>
+  <tr>
     <td width="50%" valign="top">
       <h3><a href="https://github.com/parkavenue9639/loop-engineering">loop-engineering</a></h3>
       <p>Maker-checker goal loops for bounded, evidence-backed coding-agent work.</p>
       <code>Agent Skills</code> <code>Verification</code>
     </td>
-  </tr>
-  <tr>
     <td width="50%" valign="top">
       <h3><a href="https://github.com/parkavenue9639/external-agent-mcp">external-agent-mcp</a></h3>
       <p>A local MCP runtime for asynchronous delegation to external CLI coding agents.</p>
@@ -74,13 +75,10 @@
       <p>A full-stack FastAPI + LangGraph starter with React, SSE, and persistent checkpoints.</p>
       <code>FastAPI</code> <code>LangGraph</code> <code>SSE</code>
     </td>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/parkavenue9639?tab=repositories">More experiments →</a></h3>
-      <p>RAG, MLX, biomedical NLP, scientific AI, and developer-tooling explorations.</p>
-      <code>Learn</code> <code>Build</code> <code>Iterate</code>
-    </td>
   </tr>
 </table>
+
+<p align="center"><sub><a href="https://github.com/parkavenue9639?tab=repositories">More experiments → RAG, MLX, biomedical NLP, and developer-tooling explorations</a></sub></p>
 
 <a id="open-source"></a>
 ## Open source
