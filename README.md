@@ -63,13 +63,13 @@
       <p>A local MCP runtime for asynchronous delegation to external CLI coding agents.</p>
       <code>MCP</code> <code>Node.js</code> <code>CLI Agents</code>
     </td>
+  </tr>
+  <tr>
     <td width="50%" valign="top">
       <h3><a href="https://github.com/parkavenue9639/jaeger-mcp">jaeger-mcp</a></h3>
       <p>A read-only, privacy-aware MCP server for querying and summarizing Jaeger traces.</p>
       <code>Python</code> <code>MCP</code> <code>Observability</code>
     </td>
-  </tr>
-  <tr>
     <td width="50%" valign="top">
       <h3><a href="https://github.com/parkavenue9639/BaseGraph">BaseGraph</a></h3>
       <p>A full-stack FastAPI + LangGraph starter with React, SSE, and persistent checkpoints.</p>
