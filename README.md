@@ -96,6 +96,13 @@
       <code>Python</code> <code>Agent Evaluation</code> <code>Apache-2.0</code>
     </td>
   </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/farion1231/cc-switch">farion1231/cc-switch</a></h3>
+      <p>A cross-platform desktop assistant for switching API providers across Claude Code, Codex, and other AI coding agents.</p>
+      <code>Rust</code> <code>Tauri</code> <code>MIT</code>
+    </td>
+  </tr>
 </table>
 
 ## Professional stack
