@@ -42,36 +42,36 @@
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3><a href="https://github.com/parkavenue9639/jevloop">jevloop</a></h3>
+      <h3><img src="https://cdn.simpleicons.org/python" alt="" height="24" /> <a href="https://github.com/parkavenue9639/jevloop">jevloop</a></h3>
       <p>A Python agent runtime powered by TypeSafe Jev: guarded tool execution, isolated Docker sandboxes, and side-by-side LLM comparisons.</p>
       <code>Python</code> <code>Agent Runtime</code> <code>Docker</code>
     </td>
     <td width="50%" valign="top">
-      <h3><a href="https://github.com/parkavenue9639/OmniCell-Agent">OmniCell-Agent</a></h3>
+      <h3><img src="https://raw.githubusercontent.com/parkavenue9639/OmniCell-Agent/main/assets/omnicell-agent-icon.svg" alt="" height="24" /> <a href="https://github.com/parkavenue9639/OmniCell-Agent">OmniCell-Agent</a></h3>
       <p>An observable research agent for reproducible single-cell RNA-seq analysis.</p>
       <code>LangGraph</code> <code>FastAPI</code> <code>React</code>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3><a href="https://github.com/parkavenue9639/loop-engineering">loop-engineering</a></h3>
+      <h3><img src="https://cdn.simpleicons.org/claude" alt="" height="24" /> <a href="https://github.com/parkavenue9639/loop-engineering">loop-engineering</a></h3>
       <p>Maker-checker goal loops for bounded, evidence-backed coding-agent work.</p>
       <code>Agent Skills</code> <code>Verification</code>
     </td>
     <td width="50%" valign="top">
-      <h3><a href="https://github.com/parkavenue9639/external-agent-mcp">external-agent-mcp</a></h3>
+      <h3><img src="https://cdn.simpleicons.org/modelcontextprotocol/58a6ff" alt="" height="24" /> <a href="https://github.com/parkavenue9639/external-agent-mcp">external-agent-mcp</a></h3>
       <p>A local MCP runtime for asynchronous delegation to external CLI coding agents.</p>
       <code>MCP</code> <code>Node.js</code> <code>CLI Agents</code>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3><a href="https://github.com/parkavenue9639/jaeger-mcp">jaeger-mcp</a></h3>
+      <h3><img src="https://cdn.simpleicons.org/jaeger" alt="" height="24" /> <a href="https://github.com/parkavenue9639/jaeger-mcp">jaeger-mcp</a></h3>
       <p>A read-only, privacy-aware MCP server for querying and summarizing Jaeger traces.</p>
       <code>Python</code> <code>MCP</code> <code>Observability</code>
     </td>
     <td width="50%" valign="top">
-      <h3><a href="https://github.com/parkavenue9639/BaseGraph">BaseGraph</a></h3>
+      <h3><img src="https://cdn.simpleicons.org/fastapi" alt="" height="24" /> <a href="https://github.com/parkavenue9639/BaseGraph">BaseGraph</a></h3>
       <p>A full-stack FastAPI + LangGraph starter with React, SSE, and persistent checkpoints.</p>
       <code>FastAPI</code> <code>LangGraph</code> <code>SSE</code>
     </td>
@@ -86,19 +86,19 @@
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3><a href="https://github.com/stablyai/orca">stablyai/orca</a></h3>
+      <h3><img src="https://raw.githubusercontent.com/stablyai/orca/main/resources/build/icon.png" alt="" height="24" /> <a href="https://github.com/stablyai/orca">stablyai/orca</a></h3>
       <p>An agent development environment for working with fleets of parallel coding agents.</p>
       <code>TypeScript</code> <code>Electron</code> <code>MIT</code>
     </td>
     <td width="50%" valign="top">
-      <h3><a href="https://github.com/agentscope-ai/PawBench">agentscope-ai/PawBench</a></h3>
+      <h3><img src="https://raw.githubusercontent.com/agentscope-ai/PawBench/main/site/public/favicon.svg" alt="" height="24" /> <a href="https://github.com/agentscope-ai/PawBench">agentscope-ai/PawBench</a></h3>
       <p>A benchmark for evaluating LLM × harness performance.</p>
       <code>Python</code> <code>Agent Evaluation</code> <code>Apache-2.0</code>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3><a href="https://github.com/farion1231/cc-switch">farion1231/cc-switch</a></h3>
+      <h3><img src="https://raw.githubusercontent.com/farion1231/cc-switch/main/src-tauri/icons/128x128.png" alt="" height="24" /> <a href="https://github.com/farion1231/cc-switch">farion1231/cc-switch</a></h3>
       <p>A cross-platform desktop assistant for switching API providers across Claude Code, Codex, and other AI coding agents.</p>
       <code>Rust</code> <code>Tauri</code> <code>MIT</code>
     </td>
